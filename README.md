@@ -1,8 +1,5 @@
-# 搬瓦工机场justmysocks官方
-搬瓦工机场 justmysocks 教程
-# 搬瓦工机场Just my socks clash教程
-<h1>Just My Socks：搬瓦工官方机场服务，多条线路</h1>
-<h2>力荐！Just My Socks 非常靠谱稳定的shadowsocks/V2ray代理服务！</h2>
+<h1>Just My Socks：搬瓦工官方机场服务，多条线路，自动更换IP</h1>
+<h2>力荐！搬瓦工机场 Just My Socks非常靠谱稳定的shadowsocks/V2ray代理服务！</h2>
 <h2>文章目录</h2>
 <ol id="user-content-content-index-contents">
  	<li><a href="#user-content-just1">Just My Socks介绍</a></li>
@@ -11,9 +8,11 @@
  	<li><a href="#user-content-just4">Just My Socks注册</a></li>
  	<li><a href="#user-content-just5">Just My Socks信息查看</a></li>
  	<li><a href="#user-content-just6">Just My Socks怎么用</a></li>
+  <li><a href="#user-content-just7">搬瓦工机场Just my socks clash教程</a></li>
 </ol>
-<p class="keepp">
-Just My Socks是目前非常火热的一个Shadowsocks/V2ray服务商（机场），由搬瓦工官方推出，每个服务提供5条线路，包括最快的CN2 GIA线路。Just My Socks最大的优势是保证IP不被墙，如果IP被墙，会自动更换新的可用IP给用户。对于只是需要机场看看YouTube、ins或者谷歌以及谷歌学术的朋友，Just My Socks是一个非常合适的选择。
+
+[Just My Socks](https://justmysocks3.net/members/aff.php?aff=27290&gid=1&language=chinese)是目前非常火热的一个Shadowsocks/V2ray服务商（机场），由搬瓦工官方推出，每个服务提供5条线路，包括最快的CN2 GIA线路。Just My Socks最大的优势是保证IP不被墙，如果IP被墙，会自动更换新的可用IP给用户。对于只是需要机场看看YouTube、ins或者谷歌以及谷歌学术的朋友，[Just My Socks](https://https://justmysocks3.net/members/aff.php?aff=27290&gid=1&language=chinese)是一个非常合适的选择。
+
 </p>
 <h2 id="user-content-just1"><span id="just_my_socks">一、Just My Socks介绍</span></h2>
 <p class="keepp">
@@ -131,7 +130,7 @@ Freedom服务器可以提供更多的数据传输，具体取决于当前的乘�
 注意：数据传输乘数可以随时更改。官方不提供有关服务器s801的任何质量或正常运行时间保证。它是出于礼貌提供的，可以随时脱机使用。
 
 备注：上面是官方解释，简单点就是最后一条线路没有前面5条线路好，所以使用它时流量消耗会进行打折，相当于可以节省流量，但速度要慢点，主要取决于自己的需求。
- 
+
 <h3>在just_my_socks网站，参考下图下载对应操作系统的客户端</h3>
 <img style="max-width:100%" src="https://rawcdn.githack.com/killgcd/justmysocks/1b37c68c634059695a5ceb046563d13a84766b23/images/dccn.jpg" alt="SS客户端下载，若图片无法显示请点击查看" />
 <img style="max-width:100%" src="https://rawcdn.githack.com/killgcd/justmysocks/1b37c68c634059695a5ceb046563d13a84766b23/images/dcen.jpg" alt="SS client download，若图片无法显示请点击查看" />
@@ -139,3 +138,4 @@ Freedom服务器可以提供更多的数据传输，具体取决于当前的乘�
 
 <p class="keepp"><strong>免责声明：</strong>我们推荐的任何产品和服务已努力确保可靠持久，但我们不为此承担任何责任。本库一切资源仅用作交流学习，请勿用作商业或违法行为！如造成任何后果，本库概不负责！</p>
 
+<h2 id="user-content-just6"><span id="just_my_socks-6">七、搬瓦工机场Just my socks clash教程</span></h2>
